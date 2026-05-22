@@ -10,7 +10,7 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/discord/5865F2" width="20" /> My Discord Servers
+## <img src="https://cdn.simpleicons.org/discord/5865F2" width="20" />   My Discord Servers
 
 <p align="center">
 <a href="https://discord.gg/ydn8dhWCZ">
